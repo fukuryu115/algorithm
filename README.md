@@ -1,5 +1,5 @@
 # algorithm
-Felma_test.py : program of algorithm assignment part 4
+Felma_test.py : program of algorithm assignment part 4 \\
 result1721.text : n = 1721
 result1723.text : n = 1723
 result1725.text : n = 1725
