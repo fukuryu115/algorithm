@@ -1,4 +1,4 @@
-# algorithm
+# algorithm_part4
 Felma_test.py : program of algorithm assignment part 4. 
 
 result1721.text : n = 1721. 
