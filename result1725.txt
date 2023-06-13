@@ -1,0 +1,70 @@
+====step1====
+a = 789, n = 1725
+ 合成数
+ gcd(a,n) = 3
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1116
+====step2====
+a = 913, n = 1725
+ 
+ gcd(a,n) = 1
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 886
+====step3====
+a = 1548, n = 1725
+ 合成数
+ gcd(a,n) = 3
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1116
+====step4====
+a = 607, n = 1725
+ 
+ gcd(a,n) = 1
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 151
+====step5====
+a = 899, n = 1725
+ 
+ gcd(a,n) = 1
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 601
+====step6====
+a = 319, n = 1725
+ 
+ gcd(a,n) = 1
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 121
+====step7====
+a = 356, n = 1725
+ 
+ gcd(a,n) = 1
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 721
+====step8====
+a = 367, n = 1725
+ 
+ gcd(a,n) = 1
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 346
+====step9====
+a = 1225, n = 1725
+ 合成数
+ gcd(a,n) = 25
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1375
+====step10====
+a = 1168, n = 1725
+ 
+ gcd(a,n) = 1
+ 合成数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1051

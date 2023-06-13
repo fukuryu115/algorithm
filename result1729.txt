@@ -1,0 +1,70 @@
+====step1====
+a = 1402, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step2====
+a = 516, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step3====
+a = 503, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step4====
+a = 662, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step5====
+a = 1116, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step6====
+a = 921, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step7====
+a = 1712, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step8====
+a = 408, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step9====
+a = 1168, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
+====step10====
+a = 732, n = 1729
+ 
+ gcd(a,n) = 1
+ 素数
+ a^(n-1) = overflow
+ a^(n-1) mod n = 1
